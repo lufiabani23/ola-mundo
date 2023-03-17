@@ -1,4 +1,4 @@
-# Este repositório contém o olá mundo!
+Este repositório contém o olá mundo!
 
 Olá mundo!
 
